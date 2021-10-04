@@ -1,5 +1,3 @@
-## Roy Lowe Web Developer
----
 
 ![HTML5](/images/icons8-html-5-48.png)
 ![CSS3](/images/icons8-css3-48.png)
