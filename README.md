@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Java programming
 - 💞️ I’m looking to collaborate on mitigating AI bias in healthcare models
 - 📫 How to reach me by email roylowe96@gmail.com
-- Fun Fact: I am in the first year of a PHD program concentrating in Information System Management. I enjoy traveling, micro breweries, and wine tasting.
+- Fun Fact: I am in the first year of a PHD program concentrating in Information Technology Management. I enjoy traveling, micro breweries, and wine tasting.
 
 <!---
 roylowe/roylowe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
